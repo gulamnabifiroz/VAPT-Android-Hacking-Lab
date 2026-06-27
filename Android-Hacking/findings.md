@@ -6,5 +6,6 @@
 * The compromise highlighted the effectiveness of human-targeted attacks when security awareness is insufficient.
 * Sensitive information and device functionality could be exposed following successful user interaction.
 
-## OWASP Mobile Top 10 Category:** Inadequate Security Controls.
-* **Risk Level:** Critical
+## OWASP Mobile Top 10 Category:
+* Inadequate Security Controls.
+* Risk Level: **Critical**
